@@ -18,7 +18,7 @@ NyxChat is a modern AI-powered chat application designed for seamless communicat
 
 
 ## PREVIEW
-![NyxChat Preview](https://github.com/saidhanush27/NyxChat/blob/0016201119437340eb3178cad36dd6e1f2b0f945/NyxChat%20Images/1.png)<br>
+![NyxChat Preview](https://github.com/saidhanush27/NyxChat/blob/0016201119437340eb3178cad36dd6e1f2b0f945/NyxChat%20Images/1.png)<br><br>
 ![](https://github.com/saidhanush27/NyxChat/blob/0016201119437340eb3178cad36dd6e1f2b0f945/NyxChat%20Images/2.png)<br><br>
 ![](https://github.com/saidhanush27/NyxChat/blob/0016201119437340eb3178cad36dd6e1f2b0f945/NyxChat%20Images/3.png)<br><br>
 
